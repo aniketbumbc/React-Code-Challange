@@ -12,7 +12,7 @@ import {
 import { Animal } from 'src/types/types';
 
 /**
- *  Conver error into erro message
+ *  Convert error into error message
  * @param error
  */
 
@@ -41,7 +41,7 @@ export const getFilterSeachResult = (
 };
 
 /**
- *  Name sorted by asc/desc
+ *  method is used for Names sorted by asc/desc
  * @param filterTableItems
  * @param sortOrder
  */
